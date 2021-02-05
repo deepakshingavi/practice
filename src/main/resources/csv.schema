@@ -1,0 +1,5 @@
+column_name,datatype
+applicationName,string
+id,string
+requestId,string
+version,long

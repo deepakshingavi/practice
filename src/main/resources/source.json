@@ -1,0 +1,42 @@
+{
+  "my-systems": [
+    {
+      "SYSTEM_A": [
+        {
+          "parameter-name": "a_param1",
+          "parameter-display-name": "parameter 1",
+          "optional": "true"
+        },
+        {
+          "parameter-name": "a_param2",
+          "parameter-display-name": "Parameter 2",
+          "optional": "false"
+        }
+      ]
+    },
+    {
+      "SYSTEM_B": [
+        {
+          "parameter-name": "b_param1",
+          "parameter-display-name": "Parameter 1",
+          "optional": "true"
+        },
+        {
+          "parameter-name": "b_param2",
+          "parameter-display-name": "Parameter 2",
+          "optional": "false"
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "Shots on Goal": {
+      "home": "3",
+      "away": "9"
+    },
+    "Shots off Goal": {
+      "home": "5",
+      "away": "3"
+    }
+  }
+}

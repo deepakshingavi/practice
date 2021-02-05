@@ -1,0 +1,12 @@
+{
+  "response": "success",
+  "message": "Login Success",
+  "result": {
+    "customer_id": 8,
+    "customer_name": "Haya",
+    "android_otp": 2509,
+    "customer_blocked": 0,
+    "customer_status": 0,
+    "customer_mob": "+91823232336"
+  }
+}

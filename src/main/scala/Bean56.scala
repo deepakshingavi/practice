@@ -1,0 +1,1 @@
+case class Bean77(foo: String, bar: String)
